@@ -1,0 +1,253 @@
+#note: none mean that when executing the code, the combination did not work "Aborted (core dumped)"
+
+1.
+SHITOMASI + BRISK
+All keypoints: 1179
+All matched keypoints: 767
+All time: 3647.24 ms
+
+2.
+SHITOMASI + BRIEF
+All keypoints: 1179
+All matched keypoints: 944
+All time: 424.942 ms
+
+3.
+SHITOMASI + ORB
+All keypoints: 1179
+All matched keypoints: 908
+All time: 434.908 ms
+
+4.
+SHITOMASI + FREAK
+All keypoints: 1179
+All matched keypoints: 768
+All time: 759.387 ms
+
+5.
+SHITOMASI + AKAZA
+NONE
+
+6.
+SHITOMASI + SIFT
+NONE
+....................
+
+7.
+HARRIS + BRISK
+All keypoints: 258
+All matched keypoints: 143
+All time: 4284.41 ms
+
+8.
+HARRIS + BRIEF
+All keypoints: 258
+All matched keypoints: 178
+All time: 427.117 ms
+
+9.
+HARRIS + ORB
+All keypoints: 258
+All matched keypoints: 165
+All time: 446.945 ms
+
+10.
+HARRIS + FREAK
+All keypoints: 258
+All matched keypoints: 145
+All time: 835.918 ms
+
+11.
+HARRIS + AKAZE
+none
+
+12.
+HARRIS + SIFT
+none
+.............................
+
+13.
+FAST + BRISK
+All keypoints: 4094
+All matched keypoints: 2183
+All time: 4511.07 ms
+
+14.
+FAST + BRIEF
+All keypoints: 4094
+All matched keypoints: 2831
+All time: 631.697 ms
+
+15.
+FAST + ORB
+All keypoints: 4094
+All matched keypoints: 2768
+All time: 645.852 ms
+
+16.
+FAST + FREAK
+All keypoints: 4094
+All matched keypoints: 2233
+All time: 1119.21 ms
+
+17.
+FAST + AKAZE
+none
+18.
+FAST + SIFT
+none
+.................
+
+19.
+BRISK + BRISK
+All keypoints: 2713
+All matched keypoints: 1544
+All time: 8558.81 ms
+
+20.
+BRISK + BRIEF
+All keypoints: 2713
+All matched keypoints: 1675
+All time: 4702.24 ms
+
+21.
+BRISK + ORB
+All keypoints: 2713
+All matched keypoints: 1479
+All time: 4792.24 ms
+
+22.
+BRISK + FREAK
+All keypoints: 2713
+All matched keypoints: 1495
+All time: 5153.24 ms
+
+23.
+BRISK + AKAZE
+none
+
+24.
+BRISK + SIFT 
+none
+..........................
+
+25.
+ORB + BRISK
+All keypoints: 1150
+All matched keypoints: 744
+All time: 4204.25 ms
+
+26.
+ORB + BRIEF
+All keypoints: 1150
+All matched keypoints: 540
+All time: 343.053 ms
+
+27.
+ORB + ORB
+All keypoints: 1150
+All matched keypoints: 755
+All time: 402.733 ms
+
+28.
+ORB + FREAK
+All keypoints: 1150
+All matched keypoints: 416
+All time: 777.28 ms
+
+29.
+ORB + AKAZE
+none
+
+30.
+ORB + SIFT
+none
+................
+
+31.
+AKAZE + BRISK
+All keypoints: 1655
+All matched keypoints: 1204
+All time: 5265.04 ms
+
+32.
+AKAZE + BRIEF
+All keypoints: 1655
+All matched keypoints: 1257
+All time: 1391.13 ms
+
+33.
+AKAZE + ORB
+All keypoints: 1655
+All matched keypoints: 1175
+All time: 1366.27 ms
+
+34.
+AKAZE + FREAK
+All keypoints: 1655
+All matched keypoints: 1179
+All time: 1842.9 ms
+
+35.
+AKAZE + AKAZE
+All keypoints: 1655
+All matched keypoints: 1249
+All time: 2174.76 ms
+
+36.
+AKAZE+SIFT
+none
+..................
+
+37.
+SIFT + BRISK
+All keypoints: 1371
+All matched keypoints: 586
+All time: 5219.62 ms
+
+38.
+SIFT + BRIEF
+All keypoints: 1371
+All matched keypoints: 693
+All time: 1783.16 ms
+
+39.
+SIFT + ORB
+none
+
+40.
+SIFT + FREAK
+All keypoints: 1371
+All matched keypoints: 588
+All time: 2289.51 ms
+
+41.
+SIFT+AKAZE
+none
+
+42.
+SIFT + SIFT 
+none
+
+............
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
